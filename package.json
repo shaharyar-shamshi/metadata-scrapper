@@ -1,0 +1,12 @@
+{
+  "name": "welcome-homies",
+  "version": "1.0.0",
+  "description": "Welcome message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kushagra Johari",
+  "license": "ISC"
+} 
+ 
