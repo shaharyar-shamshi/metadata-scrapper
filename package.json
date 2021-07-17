@@ -1,12 +1,15 @@
 {
-  "name": "welcome-homies",
+  "name": "metadata-scrapper",
   "version": "1.0.0",
   "description": "Welcome message",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kushagra Johari",
-  "license": "ISC"
-} 
- 
+  "author": "Shaharyar Shamshi",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
