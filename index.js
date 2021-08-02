@@ -1,9 +1,9 @@
 const cheerio = require("cheerio");
-const request = require("request");
+const needle = require("needle");
 exports.Crawler = Crawler;
 async function Crawler(url) {
     return new Promise((resolve, reject) => {
-        request({
+        needle({
             method: 'GET',
             url: url
         }, (err, res, body) => {
