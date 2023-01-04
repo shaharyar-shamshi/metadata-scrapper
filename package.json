@@ -1,6 +1,6 @@
 {
   "name": "metadata-scrapper",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "Welcome message",
   "main": "index.js",
   "scripts": {
@@ -15,12 +15,10 @@
     "metadata"
   ],
   "repository": {
-    "type":"git",
-    "url":"https://github.com/shaharyar-shamshi/metadata-scrapper"
+    "type": "git",
+    "url": "https://github.com/shaharyar-shamshi/metadata-scrapper"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.10",
-    "request": "^2.88.2",
-    "needle": "^2.8.0"
+    "playwright": "^1.29.1"
   }
 }
