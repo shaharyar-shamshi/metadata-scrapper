@@ -8,7 +8,7 @@ MetaData Scrapper
 [Metadata-Scrapper](https://www.npmjs.com/package/metadata-scrapper) is a **lightweight Node.Js Web Scraping Module** which would help scraping out the details in meta tags such as url, title, description, image etc. in different webpages. It makes scraping easy by allowing the user to just enter the required URL of the page. 
 
 <p>
-<img src="https://img.shields.io/badge/Version-1.0.5-yellow"/>
+<img src="https://img.shields.io/badge/Version-2.0.0-blue"/>
 </p>
 
 
